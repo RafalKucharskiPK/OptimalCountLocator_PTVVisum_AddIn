@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<VisumAddInCollection Format="1.0.0">
+		<VisumAddIn>
+			<AddInID>OptimalCountLocation</AddInID>
+			<AddInName>Optimal Count Locator</AddInName>			
+			<AddInPath>intelligent-infrastructure</AddInPath>
+			<AddInParaDlgScript></AddInParaDlgScript>
+			<AddInBodyScript>OCL_i2_runner.py</AddInBodyScript>
+			<AddInOperation>true</AddInOperation>
+			<AddInAutoMenu>true</AddInAutoMenu>
+			<AddInAutoShowPara>true</AddInAutoShowPara>
+		</VisumAddIn>
+</VisumAddInCollection>

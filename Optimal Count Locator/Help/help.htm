@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+	<head>
+		<meta charset="UTF-8" />
+		<title>intelligent infrastructure</title>
+		<link rel="stylesheet" type="text/css" href="html_data/main.css" />
+		<script type="text/javascript" src="html_data/main.js"></script>
+	</head>
+	<body onload="initMain()">
+	<div id="content">
+		<div id="logo_background">
+			<div id="logo">
+			</div>
+			<div id="langs">
+				<a href="#" onclick="switchLanguage('en', 'pl')" id="link_en">help </a>
+				&nbsp;
+				<a href="#" onclick="switchLanguage('pl', 'en')" id="link_pl">file</a>
+			</div>
+		</div>
+		<div id="text">
+			<div id="menu_pl">
+				<a href="#" onclick="switchMenuDivs('main', 'main_pl')" id="link_main_pl"></a>
+				&nbsp;
+				<a href="#" onclick="switchMenuDivs('main', 'kontakt_pl')" id="link_kontakt_pl">kontakt</a>
+			</div>
+			<div id="menu_en">
+				<a href="#" onclick="switchMenuDivs('main', 'main_en')" id="link_main_en">Optimal Count Locator</a> Visum Add-In
+				
+				
+			</div>
+			<div id="frame_pl">
+				<div id="main_pl">					
+				</div>
+				<div id="kontakt_pl">					
+				</div>
+			</div>
+			<div id="frame_en">
+				<div id="main_en">
+					<p>
+						<b>Optimal Count Locator</b>					
+					</p>
+					<p>
+						This add-on uses Visum Assignment results to determine most efficient set of Traffic Count Locations. <br>For more general info Visit <a href="http://intelligent-infrastructure.blogspot.com/2012/03/optimal-count-locator-ocl-for-visum.html">i2 blogspot post regarding OCL</a>
+					</p>
+					<p>
+						<b>Install</b>					
+					</p>
+					<p>
+						To run application unzip attached .rar file into <i>Visum_Installation_Folder/Exe/AddIns/</i><br>Restart Visum application (all opened Visum applications).<br> When Visum starts Add-On should be available via <i>Menu->Scripts->Intelligent-Infrastructure->Optimal Count Locator</i><br>All modules needed to run script are by default installed with Visum. In case of any import problem try to re-install Visum with with full Python installation.
+					</p>
+					
+					<p><b>Input</b></p>
+					<p>To start working with Add-On you need to have network with traffic assignment opened in Visum. <br>Also make sure that you are using a method where paths are given explicitly (i.e. Equilibrium LUCE doesn't generate Visum PrT paths).
+					<br> You can specify objects where Count Locations are already installed. Procedure generates UDA for links and nodes named: 'i2_OCL_Detectors'. Default value is 0, set it to 1 for object which are already fixed as count locations (OCL will set this value for 2 for selected optimal objects).</p>
+
+
+
+					<p><b>Setting Parameters:</b></p>
+
+					<p>You can set up to 6 parameters to handle the OCL properly:
+					<br>a) <i>Demand Segment </i> - procedure works only for single demand segment. Choose proper DSeg from list.
+					<br>b) <i>Budget </i> - specify how many objects do you want to count (integer).
+					<br>c) <i>Locate detectors on </i> - you can tell application where should it locate detectors: 'links only', 'links and nodes' and 'nodes only' are available. Remember that links can be either directed, either undirected.
+					<br>d) <i>Optimization strategy </i> - there several ways to reach optimum: either you catch as much flow as you can, either as much various OD pairs, either you mix it in bicriterial strategy - recommended to catch both volumes and OD pairs diversity.
+					<br>e) <i>Algorithm depth </i> - parameter specifies how many Paths per OD pair is used. For procedures generating vast number of paths this parameter can speed up procedure significantly. Also if you want to focus on main paths only you can set value of 1 or 2 for this parameter (integer).
+					<br>f) <i>Undirected </i> - you can determine detectors on link as one directional, or bidirectional respectively.
+					</p>
+					<p><b>Calculation:</b></p>
+
+					<p>After parameters are specified you can press <i>Calculate</i> button.
+					<br> Console in the middle of window will tell you what is being done at the moment.
+					<br> Mind that gathering data about paths can take some time. It's about 100MB MS Access database for 100 000 paths, so it needs to take a while.
+					<br> Also program may seem to have stopped after it downloaded paths - be patient - it's still working and after few seconds it will carry on.
+					<br> When calculation is finished you can scroll console to see detailed results including statistics, etc.
+					<br> Results are passed to Visum via UDA 'i2_OCL_Detectors'. OCL sets 2 as a value of parameter for resulting optimal count locations.
+					<br> Full content of program console, with results can be found in program directory as <i> report.txt </i>file.
+					</p>
+					<p><b>Graphical results:</b></p>
+					<p>
+					We provided you with default .gpa files which can be opened via <i>open GPA</i> button, however in many cases this .gpa will not be feasible. In such case overwrite <i>ShowFlow.gpa</i> file in program directory. 
+					<br><i>show flow bundle </I>button presents data as detected and undetected flows.
+					</p>
+
+
+
+<p>
+<b> Main Nodes not supported:</b> </p>
+<p>if you have main nodes in your network OCL will not work. You need to remove all main nodes for purposes of calculations, afterwards you can easily transfer results for version file with main zones. OCL supporting main nodes available on request.</p>
+<p><b>Trouble shooting:</b></p>
+<p>
+With any problems don't hesitate to write to us at <a href="mailto:info@intelligent-infrastructure.eu"><span class="i2_green">info@intelligent-infrastructure.eu</span></a>. Please provide us with description of the error, and screenshot of window popping-up ("Python Error", or similar).
+<br>Please read the content of error message. If there is a problem related to module import, you can try to Google name of unimported module (i.e. Scipy, Numpy, Matplotlib, SQlite3) and install them using windows installer package (mind that up to Visum 12, python version 2.5 is installed with Visum).
+</p>
+<p><b> 32/64 bit versions</b> </p>
+<p> OCL works fine with both versions, however there are major performance issues while using 32 bit Visum on 64 bit machines. Computation times are rising significantly (i.e. from 2 minutes to 48 hours). For addressing such cases contact us - we have solutions.
+
+
+				</div>		
+				
+				
+			</div>
+		</div>
+		<div id="contact_background">
+			<a href="mailto:info@intelligent-infrastructure.eu">			
+			<div id="contact">
+			</div>
+			</a>
+		</div>
+	</div>
+	</body>
+</html>

@@ -1,0 +1,2331 @@
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: links only
+Undirected: False
+SelectionType: Max Flow 
+======= Calculate ========
+run time to: Download paths: 1.70s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 1.70s
+run time to: Add existing detectors 1.73s
+Calculating optimal counting locations...
+detector no1 added
+detector no2 added
+detector no3 added
+detector no4 added
+detector no5 added
+detector no6 added
+detector no7 added
+detector no8 added
+run time to: Calculate optimal detecting points 1.76s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Links
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 439.0
+2.  Filtered flow: 399.0
+3.  Paths coverage: 0.908883826879
+4.  Predetected Flow: 0|0.0%
+5.  ODs precovered: 0|0.0%
+6.  Detected Flow: 399.0|90.8883826879%
+8.  ODs covered: 12|100.0%
+9.  Overall OD coverage: 12|100.0%
+
+
+Solution: 
+You should count following objects:Links: 
+Link no: 33
+Link no: 21
+Link no: 32
+Link no: 16
+Link no: 17
+Link no: 34
+Link no: 35
+Link no: 20
+
+Overall Calc Time: 2.40s
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: links only
+Undirected: False
+SelectionType: Max Flow 
+======= Calculate ========
+run time to: Download paths: 1.22s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 1.24s
+run time to: Add existing detectors 1.25s
+Calculating optimal counting locations...
+run time to: Calculate optimal detecting points 1.27s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Links
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 439.0
+2.  Filtered flow: 399.0
+3.  Paths coverage: 0.908883826879
+4.  Predetected Flow: 399.0|90.8883826879%
+5.  ODs precovered: 12|100.0%
+6.  Detected Flow: 0|0.0%
+8.  ODs covered: 0|0.0%
+9.  Overall OD coverage: 12|100.0%
+
+
+Solution: 
+You should count following objects:Links: 
+
+Overall Calc Time: 1.35s
+
+Report available in: D:\Visum_Szarata_Training\Exe\AddIns\Optimal Count Location\report.txt1.35s
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: links only
+Undirected: False
+SelectionType: Max Flow 
+======= Calculate ========
+run time to: Download paths: 1.09s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 1.11s
+run time to: Add existing detectors 1.12s
+Calculating optimal counting locations...
+run time to: Calculate optimal detecting points 1.14s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Links
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 439.0
+2.  Filtered flow: 399.0
+3.  Paths coverage: 0.908883826879
+4.  Predetected Flow: 399.0|90.8883826879%
+5.  ODs precovered: 12|100.0%
+6.  Detected Flow: 0|0.0%
+8.  ODs covered: 0|0.0%
+9.  Overall OD coverage: 12|100.0%
+
+
+Solution: 
+You should count following objects:Links: 
+
+Overall Calc Time: 1.21s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: links only
+Undirected: False
+SelectionType: Mixed
+======= Calculate ========
+run time to: Download paths: 4.72s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 4.74s
+run time to: Add existing detectors 4.75s
+Calculating optimal counting locations...
+ODs
+detector no1 added
+ODs
+detector no2 added
+ODs
+detector no3 added
+ODs
+detector no4 added
+ODs
+detector no5 added
+ODs
+detector no6 added
+ODs
+detector no7 added
+ODs
+detector no8 added
+run time to: Calculate optimal detecting points 4.82s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Links
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 439.0
+2.  Filtered flow: 399.0
+3.  Paths coverage: 0.908883826879
+4.  Predetected Flow: 0|0.0%
+5.  ODs precovered: 0|0.0%
+6.  Detected Flow: 399.0|90.8883826879%
+8.  ODs covered: 12|100.0%
+9.  Overall OD coverage: 12|100.0%
+
+
+Solution: 
+You should count following objects:Links: 
+Link no: 4
+Link no: 5
+Link no: 32
+Link no: 33
+Link no: 16
+Link no: 17
+Link no: 20
+Link no: 21
+
+Overall Calc Time: 5.46s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: links only
+Undirected: False
+SelectionType: Mixed
+======= Calculate ========
+run time to: Download paths: 3.23s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 3.23s
+run time to: Add existing detectors 3.26s
+Calculating optimal counting locations...
+run time to: Calculate optimal detecting points 3.26s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Links
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 439.0
+2.  Filtered flow: 399.0
+3.  Paths coverage: 0.908883826879
+4.  Predetected Flow: 399.0|90.8883826879%
+5.  ODs precovered: 12|100.0%
+6.  Detected Flow: 0|0.0%
+8.  ODs covered: 0|0.0%
+9.  Overall OD coverage: 12|100.0%
+
+
+Solution: 
+You should count following objects:Links: 
+
+Overall Calc Time: 3.34s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: links only
+Undirected: False
+SelectionType: Mixed
+======= Calculate ========
+run time to: Download paths: 3.11s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 3.11s
+run time to: Add existing detectors 3.15s
+Calculating optimal counting locations...
+Flow
+detector no1 added
+ODs
+detector no2 added
+Flow
+detector no3 added
+ODs
+detector no4 added
+Flow
+detector no5 added
+ODs
+detector no6 added
+Flow
+detector no7 added
+ODs
+detector no8 added
+run time to: Calculate optimal detecting points 3.19s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Links
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 439.0
+2.  Filtered flow: 399.0
+3.  Paths coverage: 0.908883826879
+4.  Predetected Flow: 0|0.0%
+5.  ODs precovered: 0|0.0%
+6.  Detected Flow: 399.0|90.8883826879%
+8.  ODs covered: 12|100.0%
+9.  Overall OD coverage: 12|100.0%
+
+
+Solution: 
+You should count following objects:Links: 
+Link no: 4
+Link no: 33
+Link no: 32
+Link no: 21
+Link no: 34
+Link no: 17
+Link no: 16
+Link no: 20
+
+Overall Calc Time: 3.80s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: links only
+Undirected: False
+SelectionType: Mixed
+======= Calculate ========
+Downloading paths: 2.1853% done
+Downloading paths: 3.278% done
+Downloading paths: 4.3707% done
+Downloading paths: 5.4634% done
+Downloading paths: 6.55% done
+Downloading paths: 7.6488% done
+Downloading paths: 8.7415% done
+Downloading paths: 9.834% done
+Downloading paths: 10.926% done
+Downloading paths: 12.019% done
+Downloading paths: 13.1% done
+Downloading paths: 14.205% done
+Downloading paths: 15.297% done
+Downloading paths: 16.390% done
+Downloading paths: 17.483% done
+Downloading paths: 18.575% done
+Downloading paths: 19.66% done
+Downloading paths: 20.761% done
+Downloading paths: 21.853% done
+Downloading paths: 22.946% done
+Downloading paths: 24.039% done
+Downloading paths: 25.131% done
+Downloading paths: 26.2% done
+Downloading paths: 27.317% done
+Downloading paths: 28.410% done
+Downloading paths: 29.502% done
+Downloading paths: 30.595% done
+Downloading paths: 31.688% done
+Downloading paths: 32.78% done
+Downloading paths: 33.873% done
+Downloading paths: 34.966% done
+Downloading paths: 36.058% done
+Downloading paths: 37.151% done
+Downloading paths: 38.244% done
+Downloading paths: 39.3% done
+Downloading paths: 40.429% done
+Downloading paths: 41.522% done
+Downloading paths: 42.615% done
+Downloading paths: 43.707% done
+Downloading paths: 44.800% done
+Downloading paths: 45.89% done
+Downloading paths: 46.985% done
+Downloading paths: 48.078% done
+Downloading paths: 49.171% done
+Downloading paths: 50.263% done
+Downloading paths: 51.356% done
+Downloading paths: 52.4% done
+Downloading paths: 53.541% done
+Downloading paths: 54.634% done
+Downloading paths: 55.727% done
+Downloading paths: 56.820% done
+Downloading paths: 57.912% done
+Downloading paths: 59.00% done
+Downloading paths: 60.098% done
+Downloading paths: 61.190% done
+Downloading paths: 62.283% done
+Downloading paths: 63.376% done
+Downloading paths: 64.468% done
+Downloading paths: 65.5% done
+Downloading paths: 66.654% done
+Downloading paths: 67.746% done
+Downloading paths: 68.839% done
+Downloading paths: 69.932% done
+Downloading paths: 71.025% done
+Downloading paths: 72.11% done
+Downloading paths: 73.210% done
+Downloading paths: 74.303% done
+Downloading paths: 75.395% done
+Downloading paths: 76.488% done
+Downloading paths: 77.581% done
+Downloading paths: 78.6% done
+Downloading paths: 79.766% done
+Downloading paths: 80.859% done
+Downloading paths: 81.951% done
+Downloading paths: 83.044% done
+Downloading paths: 84.137% done
+Downloading paths: 85.23% done
+Downloading paths: 86.322% done
+Downloading paths: 87.415% done
+Downloading paths: 88.508% done
+Downloading paths: 89.600% done
+Downloading paths: 90.693% done
+Downloading paths: 91.7% done
+Downloading paths: 92.878% done
+Downloading paths: 93.971% done
+Downloading paths: 95.064% done
+Downloading paths: 96.156% done
+Downloading paths: 97.249% done
+Downloading paths: 98.34% done
+Downloading paths: 99.435% done
+Downloading paths: 100.52% done
+run time to: Download paths: 62.9s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 85.5s
+run time to: Add existing detectors 94.0s
+Calculating optimal counting locations...
+Flow
+detector no1 added
+ODs
+detector no2 added
+Flow
+detector no3 added
+ODs
+detector no4 added
+Flow
+detector no5 added
+ODs
+detector no6 added
+Flow
+detector no7 added
+ODs
+detector no8 added
+Flow
+detector no9 added
+ODs
+detector no10 added
+run time to: Calculate optimal detecting points 165.s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Links
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 122272.7
+2.  Filtered flow: 121957.75
+3.  Paths coverage: 0.997424200169
+4.  Predetected Flow: 0|0.0%
+5.  ODs precovered: 0|0.0%
+6.  Detected Flow: 37160.302|30.3913318345%
+8.  ODs covered: 36737|35.7642133956%
+9.  Overall OD coverage: 36737|35.7642133956%
+
+
+Solution: 
+You should count following objects:Links: 
+Link no: 2320
+Link no: 2669
+Link no: 1270
+Link no: 2877
+Link no: 2876
+Link no: 538
+Link no: 2668
+Link no: 271
+Link no: 3785
+Link no: 539
+
+Overall Calc Time: 167.s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: links only
+Undirected: False
+SelectionType: Max Flow 
+======= Calculate ========
+Downloading paths: 2.1853% done
+Downloading paths: 3.278% done
+Downloading paths: 4.3707% done
+Downloading paths: 5.4634% done
+Downloading paths: 6.55% done
+Downloading paths: 7.6488% done
+Downloading paths: 8.7415% done
+Downloading paths: 9.834% done
+Downloading paths: 10.926% done
+Downloading paths: 12.019% done
+Downloading paths: 13.1% done
+Downloading paths: 14.205% done
+Downloading paths: 15.297% done
+Downloading paths: 16.390% done
+Downloading paths: 17.483% done
+Downloading paths: 18.575% done
+Downloading paths: 19.66% done
+Downloading paths: 20.761% done
+Downloading paths: 21.853% done
+Downloading paths: 22.946% done
+Downloading paths: 24.039% done
+Downloading paths: 25.131% done
+Downloading paths: 26.2% done
+Downloading paths: 27.317% done
+Downloading paths: 28.410% done
+Downloading paths: 29.502% done
+Downloading paths: 30.595% done
+Downloading paths: 31.688% done
+Downloading paths: 32.78% done
+Downloading paths: 33.873% done
+Downloading paths: 34.966% done
+Downloading paths: 36.058% done
+Downloading paths: 37.151% done
+Downloading paths: 38.244% done
+Downloading paths: 39.3% done
+Downloading paths: 40.429% done
+Downloading paths: 41.522% done
+Downloading paths: 42.615% done
+Downloading paths: 43.707% done
+Downloading paths: 44.800% done
+Downloading paths: 45.89% done
+Downloading paths: 46.985% done
+Downloading paths: 48.078% done
+Downloading paths: 49.171% done
+Downloading paths: 50.263% done
+Downloading paths: 51.356% done
+Downloading paths: 52.4% done
+Downloading paths: 53.541% done
+Downloading paths: 54.634% done
+Downloading paths: 55.727% done
+Downloading paths: 56.820% done
+Downloading paths: 57.912% done
+Downloading paths: 59.00% done
+Downloading paths: 60.098% done
+Downloading paths: 61.190% done
+Downloading paths: 62.283% done
+Downloading paths: 63.376% done
+Downloading paths: 64.468% done
+Downloading paths: 65.5% done
+Downloading paths: 66.654% done
+Downloading paths: 67.746% done
+Downloading paths: 68.839% done
+Downloading paths: 69.932% done
+Downloading paths: 71.025% done
+Downloading paths: 72.11% done
+Downloading paths: 73.210% done
+Downloading paths: 74.303% done
+Downloading paths: 75.395% done
+Downloading paths: 76.488% done
+Downloading paths: 77.581% done
+Downloading paths: 78.6% done
+Downloading paths: 79.766% done
+Downloading paths: 80.859% done
+Downloading paths: 81.951% done
+Downloading paths: 83.044% done
+Downloading paths: 84.137% done
+Downloading paths: 85.23% done
+Downloading paths: 86.322% done
+Downloading paths: 87.415% done
+Downloading paths: 88.508% done
+Downloading paths: 89.600% done
+Downloading paths: 90.693% done
+Downloading paths: 91.7% done
+Downloading paths: 92.878% done
+Downloading paths: 93.971% done
+Downloading paths: 95.064% done
+Downloading paths: 96.156% done
+Downloading paths: 97.249% done
+Downloading paths: 98.34% done
+Downloading paths: 99.435% done
+Downloading paths: 100.52% done
+run time to: Download paths: 43.3s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 66.5s
+run time to: Add existing detectors 76.1s
+Calculating optimal counting locations...
+Flow
+detector no1 added
+Flow
+detector no2 added
+Flow
+detector no3 added
+Flow
+detector no4 added
+Flow
+detector no5 added
+Flow
+detector no6 added
+Flow
+detector no7 added
+Flow
+detector no8 added
+Flow
+detector no9 added
+Flow
+detector no10 added
+run time to: Calculate optimal detecting points 152.s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Links
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 122272.7
+2.  Filtered flow: 121957.75
+3.  Paths coverage: 0.997424200169
+4.  Predetected Flow: 0|0.0%
+5.  ODs precovered: 0|0.0%
+6.  Detected Flow: 38798.02|31.7307297541%
+8.  ODs covered: 35742|34.7955607477%
+9.  Overall OD coverage: 35742|34.7955607477%
+
+
+Solution: 
+You should count following objects:Links: 
+Link no: 2669
+Link no: 2877
+Link no: 538
+Link no: 2668
+Link no: 1034
+Link no: 271
+Link no: 539
+Link no: 328
+Link no: 1271
+Link no: 1270
+
+Overall Calc Time: 155.s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: links only
+Undirected: False
+SelectionType: Max OD pairs
+======= Calculate ========
+Downloading paths: 2.1853% done
+Downloading paths: 3.278% done
+Downloading paths: 4.3707% done
+Downloading paths: 5.4634% done
+Downloading paths: 6.55% done
+Downloading paths: 7.6488% done
+Downloading paths: 8.7415% done
+Downloading paths: 9.834% done
+Downloading paths: 10.926% done
+Downloading paths: 12.019% done
+Downloading paths: 13.1% done
+Downloading paths: 14.205% done
+Downloading paths: 15.297% done
+Downloading paths: 16.390% done
+Downloading paths: 17.483% done
+Downloading paths: 18.575% done
+Downloading paths: 19.66% done
+Downloading paths: 20.761% done
+Downloading paths: 21.853% done
+Downloading paths: 22.946% done
+Downloading paths: 24.039% done
+Downloading paths: 25.131% done
+Downloading paths: 26.2% done
+Downloading paths: 27.317% done
+Downloading paths: 28.410% done
+Downloading paths: 29.502% done
+Downloading paths: 30.595% done
+Downloading paths: 31.688% done
+Downloading paths: 32.78% done
+Downloading paths: 33.873% done
+Downloading paths: 34.966% done
+Downloading paths: 36.058% done
+Downloading paths: 37.151% done
+Downloading paths: 38.244% done
+Downloading paths: 39.3% done
+Downloading paths: 40.429% done
+Downloading paths: 41.522% done
+Downloading paths: 42.615% done
+Downloading paths: 43.707% done
+Downloading paths: 44.800% done
+Downloading paths: 45.89% done
+Downloading paths: 46.985% done
+Downloading paths: 48.078% done
+Downloading paths: 49.171% done
+Downloading paths: 50.263% done
+Downloading paths: 51.356% done
+Downloading paths: 52.4% done
+Downloading paths: 53.541% done
+Downloading paths: 54.634% done
+Downloading paths: 55.727% done
+Downloading paths: 56.820% done
+Downloading paths: 57.912% done
+Downloading paths: 59.00% done
+Downloading paths: 60.098% done
+Downloading paths: 61.190% done
+Downloading paths: 62.283% done
+Downloading paths: 63.376% done
+Downloading paths: 64.468% done
+Downloading paths: 65.5% done
+Downloading paths: 66.654% done
+Downloading paths: 67.746% done
+Downloading paths: 68.839% done
+Downloading paths: 69.932% done
+Downloading paths: 71.025% done
+Downloading paths: 72.11% done
+Downloading paths: 73.210% done
+Downloading paths: 74.303% done
+Downloading paths: 75.395% done
+Downloading paths: 76.488% done
+Downloading paths: 77.581% done
+Downloading paths: 78.6% done
+Downloading paths: 79.766% done
+Downloading paths: 80.859% done
+Downloading paths: 81.951% done
+Downloading paths: 83.044% done
+Downloading paths: 84.137% done
+Downloading paths: 85.23% done
+Downloading paths: 86.322% done
+Downloading paths: 87.415% done
+Downloading paths: 88.508% done
+Downloading paths: 89.600% done
+Downloading paths: 90.693% done
+Downloading paths: 91.7% done
+Downloading paths: 92.878% done
+Downloading paths: 93.971% done
+Downloading paths: 95.064% done
+Downloading paths: 96.156% done
+Downloading paths: 97.249% done
+Downloading paths: 98.34% done
+Downloading paths: 99.435% done
+Downloading paths: 100.52% done
+run time to: Download paths: 42.0s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 64.9s
+run time to: Add existing detectors 75.3s
+Calculating optimal counting locations...
+detector no1 added
+detector no2 added
+detector no3 added
+detector no4 added
+detector no5 added
+detector no6 added
+detector no7 added
+detector no8 added
+detector no9 added
+detector no10 added
+run time to: Calculate optimal detecting points 147.s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Links
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 122272.7
+2.  Filtered flow: 121957.75
+3.  Paths coverage: 0.997424200169
+4.  Predetected Flow: 0|0.0%
+5.  ODs precovered: 0|0.0%
+6.  Detected Flow: 37160.302|30.3913318345%
+8.  ODs covered: 36737|35.7642133956%
+9.  Overall OD coverage: 36737|35.7642133956%
+
+
+Solution: 
+You should count following objects:Links: 
+Link no: 2320
+Link no: 2669
+Link no: 1270
+Link no: 2877
+Link no: 2876
+Link no: 538
+Link no: 2668
+Link no: 271
+Link no: 3785
+Link no: 539
+
+Overall Calc Time: 150.s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: nodes only
+Undirected: False
+SelectionType: Mixed
+======= Calculate ========
+Downloading paths: 2.1853% done
+Downloading paths: 3.278% done
+Downloading paths: 4.3707% done
+Downloading paths: 5.4634% done
+Downloading paths: 6.55% done
+Downloading paths: 7.6488% done
+Downloading paths: 8.7415% done
+Downloading paths: 9.834% done
+Downloading paths: 10.926% done
+Downloading paths: 12.019% done
+Downloading paths: 13.1% done
+Downloading paths: 14.205% done
+Downloading paths: 15.297% done
+Downloading paths: 16.390% done
+Downloading paths: 17.483% done
+Downloading paths: 18.575% done
+Downloading paths: 19.66% done
+Downloading paths: 20.761% done
+Downloading paths: 21.853% done
+Downloading paths: 22.946% done
+Downloading paths: 24.039% done
+Downloading paths: 25.131% done
+Downloading paths: 26.2% done
+Downloading paths: 27.317% done
+Downloading paths: 28.410% done
+Downloading paths: 29.502% done
+Downloading paths: 30.595% done
+Downloading paths: 31.688% done
+Downloading paths: 32.78% done
+Downloading paths: 33.873% done
+Downloading paths: 34.966% done
+Downloading paths: 36.058% done
+Downloading paths: 37.151% done
+Downloading paths: 38.244% done
+Downloading paths: 39.3% done
+Downloading paths: 40.429% done
+Downloading paths: 41.522% done
+Downloading paths: 42.615% done
+Downloading paths: 43.707% done
+Downloading paths: 44.800% done
+Downloading paths: 45.89% done
+Downloading paths: 46.985% done
+Downloading paths: 48.078% done
+Downloading paths: 49.171% done
+Downloading paths: 50.263% done
+Downloading paths: 51.356% done
+Downloading paths: 52.4% done
+Downloading paths: 53.541% done
+Downloading paths: 54.634% done
+Downloading paths: 55.727% done
+Downloading paths: 56.820% done
+Downloading paths: 57.912% done
+Downloading paths: 59.00% done
+Downloading paths: 60.098% done
+Downloading paths: 61.190% done
+Downloading paths: 62.283% done
+Downloading paths: 63.376% done
+Downloading paths: 64.468% done
+Downloading paths: 65.5% done
+Downloading paths: 66.654% done
+Downloading paths: 67.746% done
+Downloading paths: 68.839% done
+Downloading paths: 69.932% done
+Downloading paths: 71.025% done
+Downloading paths: 72.11% done
+Downloading paths: 73.210% done
+Downloading paths: 74.303% done
+Downloading paths: 75.395% done
+Downloading paths: 76.488% done
+Downloading paths: 77.581% done
+Downloading paths: 78.6% done
+Downloading paths: 79.766% done
+Downloading paths: 80.859% done
+Downloading paths: 81.951% done
+Downloading paths: 83.044% done
+Downloading paths: 84.137% done
+Downloading paths: 85.23% done
+Downloading paths: 86.322% done
+Downloading paths: 87.415% done
+Downloading paths: 88.508% done
+Downloading paths: 89.600% done
+Downloading paths: 90.693% done
+Downloading paths: 91.7% done
+Downloading paths: 92.878% done
+Downloading paths: 93.971% done
+Downloading paths: 95.064% done
+Downloading paths: 96.156% done
+Downloading paths: 97.249% done
+Downloading paths: 98.34% done
+Downloading paths: 99.435% done
+Downloading paths: 100.52% done
+run time to: Download paths: 111.s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 133.s
+run time to: Add existing detectors 142.s
+Calculating optimal counting locations...
+detector no1 added
+detector no2 added
+detector no3 added
+detector no4 added
+detector no5 added
+detector no6 added
+detector no7 added
+detector no8 added
+detector no9 added
+detector no10 added
+run time to: Calculate optimal detecting points 197.s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Nodes
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 122272.7
+2.  Filtered flow: 121957.75
+3.  Paths coverage: 0.997424200169
+4.  Predetected Flow: 0|0.0%
+5.  ODs precovered: 0|0.0%
+6.  Detected Flow: 68844.289|56.303892038%
+8.  ODs covered: 58579|57.0278426791%
+9.  Overall OD coverage: 58579|57.0278426791%
+
+
+Solution: 
+You should count following objects:Nodes: 
+Node no: 605
+Node no: 153
+Node no: 224
+Node no: 243
+Node no: 148
+Node no: 235
+Node no: 185
+Node no: 461
+Node no: 100
+Node no: 220
+
+Overall Calc Time: 200.s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: nodes only
+Undirected: False
+SelectionType: Mixed
+======= Calculate ========
+Downloading paths: 2.1853% done
+Downloading paths: 3.278% done
+Downloading paths: 4.3707% done
+Downloading paths: 5.4634% done
+Downloading paths: 6.55% done
+Downloading paths: 7.6488% done
+Downloading paths: 8.7415% done
+Downloading paths: 9.834% done
+Downloading paths: 10.926% done
+Downloading paths: 12.019% done
+Downloading paths: 13.1% done
+Downloading paths: 14.205% done
+Downloading paths: 15.297% done
+Downloading paths: 16.390% done
+Downloading paths: 17.483% done
+Downloading paths: 18.575% done
+Downloading paths: 19.66% done
+Downloading paths: 20.761% done
+Downloading paths: 21.853% done
+Downloading paths: 22.946% done
+Downloading paths: 24.039% done
+Downloading paths: 25.131% done
+Downloading paths: 26.2% done
+Downloading paths: 27.317% done
+Downloading paths: 28.410% done
+Downloading paths: 29.502% done
+Downloading paths: 30.595% done
+Downloading paths: 31.688% done
+Downloading paths: 32.78% done
+Downloading paths: 33.873% done
+Downloading paths: 34.966% done
+Downloading paths: 36.058% done
+Downloading paths: 37.151% done
+Downloading paths: 38.244% done
+Downloading paths: 39.3% done
+Downloading paths: 40.429% done
+Downloading paths: 41.522% done
+Downloading paths: 42.615% done
+Downloading paths: 43.707% done
+Downloading paths: 44.800% done
+Downloading paths: 45.89% done
+Downloading paths: 46.985% done
+Downloading paths: 48.078% done
+Downloading paths: 49.171% done
+Downloading paths: 50.263% done
+Downloading paths: 51.356% done
+Downloading paths: 52.4% done
+Downloading paths: 53.541% done
+Downloading paths: 54.634% done
+Downloading paths: 55.727% done
+Downloading paths: 56.820% done
+Downloading paths: 57.912% done
+Downloading paths: 59.00% done
+Downloading paths: 60.098% done
+Downloading paths: 61.190% done
+Downloading paths: 62.283% done
+Downloading paths: 63.376% done
+Downloading paths: 64.468% done
+Downloading paths: 65.5% done
+Downloading paths: 66.654% done
+Downloading paths: 67.746% done
+Downloading paths: 68.839% done
+Downloading paths: 69.932% done
+Downloading paths: 71.025% done
+Downloading paths: 72.11% done
+Downloading paths: 73.210% done
+Downloading paths: 74.303% done
+Downloading paths: 75.395% done
+Downloading paths: 76.488% done
+Downloading paths: 77.581% done
+Downloading paths: 78.6% done
+Downloading paths: 79.766% done
+Downloading paths: 80.859% done
+Downloading paths: 81.951% done
+Downloading paths: 83.044% done
+Downloading paths: 84.137% done
+Downloading paths: 85.23% done
+Downloading paths: 86.322% done
+Downloading paths: 87.415% done
+Downloading paths: 88.508% done
+Downloading paths: 89.600% done
+Downloading paths: 90.693% done
+Downloading paths: 91.7% done
+Downloading paths: 92.878% done
+Downloading paths: 93.971% done
+Downloading paths: 95.064% done
+Downloading paths: 96.156% done
+Downloading paths: 97.249% done
+Downloading paths: 98.34% done
+Downloading paths: 99.435% done
+Downloading paths: 100.52% done
+run time to: Download paths: 313.s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 338.s
+run time to: Add existing detectors 354.s
+Calculating optimal counting locations...
+detector no1 added
+detector no2 added
+detector no3 added
+detector no4 added
+detector no5 added
+detector no6 added
+detector no7 added
+detector no8 added
+detector no9 added
+detector no10 added
+run time to: Calculate optimal detecting points 373.s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Nodes
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 122272.7
+2.  Filtered flow: 121957.75
+3.  Paths coverage: 0.997424200169
+4.  Predetected Flow: 68844.289|56.303892038%
+5.  ODs precovered: 58579|57.0278426791%
+6.  Detected Flow: 88108.456|72.05897637%
+8.  ODs covered: 73845|71.8896028037%
+9.  Overall OD coverage: 73845|71.8896028037%
+
+
+Solution: 
+You should count following objects:Nodes: 
+Node no: 605
+Node no: 153
+Node no: 224
+Node no: 243
+Node no: 148
+Node no: 235
+Node no: 185
+Node no: 461
+Node no: 100
+Node no: 220
+Node no: 91
+Node no: 44
+Node no: 1395
+Node no: 238
+Node no: 173
+Node no: 259
+Node no: 1111557
+Node no: 293
+Node no: 138
+Node no: 284
+
+Overall Calc Time: 381.s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: links only
+Undirected: False
+SelectionType: Max Flow 
+======= Calculate ========
+Downloading paths: 2.1853% done
+Downloading paths: 3.278% done
+Downloading paths: 4.3707% done
+Downloading paths: 5.4634% done
+Downloading paths: 6.55% done
+Downloading paths: 7.6488% done
+Downloading paths: 8.7415% done
+Downloading paths: 9.834% done
+Downloading paths: 10.926% done
+Downloading paths: 12.019% done
+Downloading paths: 13.1% done
+Downloading paths: 14.205% done
+Downloading paths: 15.297% done
+Downloading paths: 16.390% done
+Downloading paths: 17.483% done
+Downloading paths: 18.575% done
+Downloading paths: 19.66% done
+Downloading paths: 20.761% done
+Downloading paths: 21.853% done
+Downloading paths: 22.946% done
+Downloading paths: 24.039% done
+Downloading paths: 25.131% done
+Downloading paths: 26.2% done
+Downloading paths: 27.317% done
+Downloading paths: 28.410% done
+Downloading paths: 29.502% done
+Downloading paths: 30.595% done
+Downloading paths: 31.688% done
+Downloading paths: 32.78% done
+Downloading paths: 33.873% done
+Downloading paths: 34.966% done
+Downloading paths: 36.058% done
+Downloading paths: 37.151% done
+Downloading paths: 38.244% done
+Downloading paths: 39.3% done
+Downloading paths: 40.429% done
+Downloading paths: 41.522% done
+Downloading paths: 42.615% done
+Downloading paths: 43.707% done
+Downloading paths: 44.800% done
+Downloading paths: 45.89% done
+Downloading paths: 46.985% done
+Downloading paths: 48.078% done
+Downloading paths: 49.171% done
+Downloading paths: 50.263% done
+Downloading paths: 51.356% done
+Downloading paths: 52.4% done
+Downloading paths: 53.541% done
+Downloading paths: 54.634% done
+Downloading paths: 55.727% done
+Downloading paths: 56.820% done
+Downloading paths: 57.912% done
+Downloading paths: 59.00% done
+Downloading paths: 60.098% done
+Downloading paths: 61.190% done
+Downloading paths: 62.283% done
+Downloading paths: 63.376% done
+Downloading paths: 64.468% done
+Downloading paths: 65.5% done
+Downloading paths: 66.654% done
+Downloading paths: 67.746% done
+Downloading paths: 68.839% done
+Downloading paths: 69.932% done
+Downloading paths: 71.025% done
+Downloading paths: 72.11% done
+Downloading paths: 73.210% done
+Downloading paths: 74.303% done
+Downloading paths: 75.395% done
+Downloading paths: 76.488% done
+Downloading paths: 77.581% done
+Downloading paths: 78.6% done
+Downloading paths: 79.766% done
+Downloading paths: 80.859% done
+Downloading paths: 81.951% done
+Downloading paths: 83.044% done
+Downloading paths: 84.137% done
+Downloading paths: 85.23% done
+Downloading paths: 86.322% done
+Downloading paths: 87.415% done
+Downloading paths: 88.508% done
+Downloading paths: 89.600% done
+Downloading paths: 90.693% done
+Downloading paths: 91.7% done
+Downloading paths: 92.878% done
+Downloading paths: 93.971% done
+Downloading paths: 95.064% done
+Downloading paths: 96.156% done
+Downloading paths: 97.249% done
+Downloading paths: 98.34% done
+Downloading paths: 99.435% done
+Downloading paths: 100.52% done
+run time to: Download paths: 60.1s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 80.5s
+run time to: Add existing detectors 89.3s
+Calculating optimal counting locations...
+detector no1 added
+detector no2 added
+detector no3 added
+detector no4 added
+detector no5 added
+detector no6 added
+detector no7 added
+detector no8 added
+detector no9 added
+detector no10 added
+run time to: Calculate optimal detecting points 161.s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Links
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 122272.7
+2.  Filtered flow: 121957.75
+3.  Paths coverage: 0.997424200169
+4.  Predetected Flow: 0|0.0%
+5.  ODs precovered: 0|0.0%
+6.  Detected Flow: 38798.02|31.7307297541%
+8.  ODs covered: 35742|34.7955607477%
+9.  Overall OD coverage: 35742|34.7955607477%
+
+
+Solution: 
+You should count following objects:Links: 
+Link no: 2669
+Link no: 2877
+Link no: 538
+Link no: 2668
+Link no: 1034
+Link no: 271
+Link no: 539
+Link no: 328
+Link no: 1271
+Link no: 1270
+
+Overall Calc Time: 164.s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\intelligent-infrastructure\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: nodes only
+Undirected: False
+SelectionType: Max Flow 
+======= Calculate ========
+Downloading paths: 2.1853% done
+Downloading paths: 3.278% done
+Downloading paths: 4.3707% done
+Downloading paths: 5.4634% done
+Downloading paths: 6.55% done
+Downloading paths: 7.6488% done
+Downloading paths: 8.7415% done
+Downloading paths: 9.834% done
+Downloading paths: 10.926% done
+Downloading paths: 12.019% done
+Downloading paths: 13.1% done
+Downloading paths: 14.205% done
+Downloading paths: 15.297% done
+Downloading paths: 16.390% done
+Downloading paths: 17.483% done
+Downloading paths: 18.575% done
+Downloading paths: 19.66% done
+Downloading paths: 20.761% done
+Downloading paths: 21.853% done
+Downloading paths: 22.946% done
+Downloading paths: 24.039% done
+Downloading paths: 25.131% done
+Downloading paths: 26.2% done
+Downloading paths: 27.317% done
+Downloading paths: 28.410% done
+Downloading paths: 29.502% done
+Downloading paths: 30.595% done
+Downloading paths: 31.688% done
+Downloading paths: 32.78% done
+Downloading paths: 33.873% done
+Downloading paths: 34.966% done
+Downloading paths: 36.058% done
+Downloading paths: 37.151% done
+Downloading paths: 38.244% done
+Downloading paths: 39.3% done
+Downloading paths: 40.429% done
+Downloading paths: 41.522% done
+Downloading paths: 42.615% done
+Downloading paths: 43.707% done
+Downloading paths: 44.800% done
+Downloading paths: 45.89% done
+Downloading paths: 46.985% done
+Downloading paths: 48.078% done
+Downloading paths: 49.171% done
+Downloading paths: 50.263% done
+Downloading paths: 51.356% done
+Downloading paths: 52.4% done
+Downloading paths: 53.541% done
+Downloading paths: 54.634% done
+Downloading paths: 55.727% done
+Downloading paths: 56.820% done
+Downloading paths: 57.912% done
+Downloading paths: 59.00% done
+Downloading paths: 60.098% done
+Downloading paths: 61.190% done
+Downloading paths: 62.283% done
+Downloading paths: 63.376% done
+Downloading paths: 64.468% done
+Downloading paths: 65.5% done
+Downloading paths: 66.654% done
+Downloading paths: 67.746% done
+Downloading paths: 68.839% done
+Downloading paths: 69.932% done
+Downloading paths: 71.025% done
+Downloading paths: 72.11% done
+Downloading paths: 73.210% done
+Downloading paths: 74.303% done
+Downloading paths: 75.395% done
+Downloading paths: 76.488% done
+Downloading paths: 77.581% done
+Downloading paths: 78.6% done
+Downloading paths: 79.766% done
+Downloading paths: 80.859% done
+Downloading paths: 81.951% done
+Downloading paths: 83.044% done
+Downloading paths: 84.137% done
+Downloading paths: 85.23% done
+Downloading paths: 86.322% done
+Downloading paths: 87.415% done
+Downloading paths: 88.508% done
+Downloading paths: 89.600% done
+Downloading paths: 90.693% done
+Downloading paths: 91.7% done
+Downloading paths: 92.878% done
+Downloading paths: 93.971% done
+Downloading paths: 95.064% done
+Downloading paths: 96.156% done
+Downloading paths: 97.249% done
+Downloading paths: 98.34% done
+Downloading paths: 99.435% done
+Downloading paths: 100.52% done
+run time to: Download paths: 418.s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 441.s
+run time to: Add existing detectors 453.s
+Calculating optimal counting locations...
+detector no1 added
+detector no2 added
+detector no3 added
+detector no4 added
+detector no5 added
+detector no6 added
+detector no7 added
+detector no8 added
+detector no9 added
+detector no10 added
+run time to: Calculate optimal detecting points 487.s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Nodes
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 122272.7
+2.  Filtered flow: 121957.75
+3.  Paths coverage: 0.997424200169
+4.  Predetected Flow: 38798.02|31.7307297541%
+5.  ODs precovered: 35742|34.7955607477%
+6.  Detected Flow: 79257.048|64.8199050156%
+8.  ODs covered: 65098|63.3742211838%
+9.  Overall OD coverage: 65098|63.3742211838%
+
+
+Solution: 
+You should count following objects:Nodes: 
+Link no: 2669
+Link no: 2877
+Link no: 538
+Link no: 2668
+Link no: 1034
+Link no: 271
+Link no: 539
+Link no: 328
+Link no: 1271
+Link no: 1270
+Node no: 153
+Node no: 91
+Node no: 224
+Node no: 259
+Node no: 123
+Node no: 185
+Node no: 232
+Node no: 118
+Node no: 461
+Node no: 293
+
+Overall Calc Time: 494.s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\intelligent-infrastructure\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: nodes only
+Undirected: False
+SelectionType: Mixed
+======= Calculate ========
+Downloading paths: 2.1853% done
+Downloading paths: 3.278% done
+Downloading paths: 4.3707% done
+Downloading paths: 5.4634% done
+Downloading paths: 6.55% done
+Downloading paths: 7.6488% done
+Downloading paths: 8.7415% done
+Downloading paths: 9.834% done
+Downloading paths: 10.926% done
+Downloading paths: 12.019% done
+Downloading paths: 13.1% done
+Downloading paths: 14.205% done
+Downloading paths: 15.297% done
+Downloading paths: 16.390% done
+Downloading paths: 17.483% done
+Downloading paths: 18.575% done
+Downloading paths: 19.66% done
+Downloading paths: 20.761% done
+Downloading paths: 21.853% done
+Downloading paths: 22.946% done
+Downloading paths: 24.039% done
+Downloading paths: 25.131% done
+Downloading paths: 26.2% done
+Downloading paths: 27.317% done
+Downloading paths: 28.410% done
+Downloading paths: 29.502% done
+Downloading paths: 30.595% done
+Downloading paths: 31.688% done
+Downloading paths: 32.78% done
+Downloading paths: 33.873% done
+Downloading paths: 34.966% done
+Downloading paths: 36.058% done
+Downloading paths: 37.151% done
+Downloading paths: 38.244% done
+Downloading paths: 39.3% done
+Downloading paths: 40.429% done
+Downloading paths: 41.522% done
+Downloading paths: 42.615% done
+Downloading paths: 43.707% done
+Downloading paths: 44.800% done
+Downloading paths: 45.89% done
+Downloading paths: 46.985% done
+Downloading paths: 48.078% done
+Downloading paths: 49.171% done
+Downloading paths: 50.263% done
+Downloading paths: 51.356% done
+Downloading paths: 52.4% done
+Downloading paths: 53.541% done
+Downloading paths: 54.634% done
+Downloading paths: 55.727% done
+Downloading paths: 56.820% done
+Downloading paths: 57.912% done
+Downloading paths: 59.00% done
+Downloading paths: 60.098% done
+Downloading paths: 61.190% done
+Downloading paths: 62.283% done
+Downloading paths: 63.376% done
+Downloading paths: 64.468% done
+Downloading paths: 65.5% done
+Downloading paths: 66.654% done
+Downloading paths: 67.746% done
+Downloading paths: 68.839% done
+Downloading paths: 69.932% done
+Downloading paths: 71.025% done
+Downloading paths: 72.11% done
+Downloading paths: 73.210% done
+Downloading paths: 74.303% done
+Downloading paths: 75.395% done
+Downloading paths: 76.488% done
+Downloading paths: 77.581% done
+Downloading paths: 78.6% done
+Downloading paths: 79.766% done
+Downloading paths: 80.859% done
+Downloading paths: 81.951% done
+Downloading paths: 83.044% done
+Downloading paths: 84.137% done
+Downloading paths: 85.23% done
+Downloading paths: 86.322% done
+Downloading paths: 87.415% done
+Downloading paths: 88.508% done
+Downloading paths: 89.600% done
+Downloading paths: 90.693% done
+Downloading paths: 91.7% done
+Downloading paths: 92.878% done
+Downloading paths: 93.971% done
+Downloading paths: 95.064% done
+Downloading paths: 96.156% done
+Downloading paths: 97.249% done
+Downloading paths: 98.34% done
+Downloading paths: 99.435% done
+Downloading paths: 100.52% done
+run time to: Download paths: 67.4s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 90.8s
+run time to: Add existing detectors 100.s
+Calculating optimal counting locations...
+detector no1 added
+detector no2 added
+detector no3 added
+detector no4 added
+detector no5 added
+detector no6 added
+detector no7 added
+detector no8 added
+detector no9 added
+detector no10 added
+run time to: Calculate optimal detecting points 153.s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Nodes
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 122272.7
+2.  Filtered flow: 121957.75
+3.  Paths coverage: 0.997424200169
+4.  Predetected Flow: 0|0.0%
+5.  ODs precovered: 0|0.0%
+6.  Detected Flow: 68844.289|56.303892038%
+8.  ODs covered: 58579|57.0278426791%
+9.  Overall OD coverage: 58579|57.0278426791%
+
+
+Solution: 
+You should count following objects:Nodes: 
+Node no: 605
+Node no: 153
+Node no: 224
+Node no: 243
+Node no: 148
+Node no: 235
+Node no: 185
+Node no: 461
+Node no: 100
+Node no: 220
+
+Overall Calc Time: 156.s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\intelligent-infrastructure\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: links only
+Undirected: False
+SelectionType: Max Flow 
+======= Calculate ========
+Downloading paths: 2.1853% done
+Downloading paths: 3.278% done
+Downloading paths: 4.3707% done
+Downloading paths: 5.4634% done
+Downloading paths: 6.55% done
+Downloading paths: 7.6488% done
+Downloading paths: 8.7415% done
+Downloading paths: 9.834% done
+Downloading paths: 10.926% done
+Downloading paths: 12.019% done
+Downloading paths: 13.1% done
+Downloading paths: 14.205% done
+Downloading paths: 15.297% done
+Downloading paths: 16.390% done
+Downloading paths: 17.483% done
+Downloading paths: 18.575% done
+Downloading paths: 19.66% done
+Downloading paths: 20.761% done
+Downloading paths: 21.853% done
+Downloading paths: 22.946% done
+Downloading paths: 24.039% done
+Downloading paths: 25.131% done
+Downloading paths: 26.2% done
+Downloading paths: 27.317% done
+Downloading paths: 28.410% done
+Downloading paths: 29.502% done
+Downloading paths: 30.595% done
+Downloading paths: 31.688% done
+Downloading paths: 32.78% done
+Downloading paths: 33.873% done
+Downloading paths: 34.966% done
+Downloading paths: 36.058% done
+Downloading paths: 37.151% done
+Downloading paths: 38.244% done
+Downloading paths: 39.3% done
+Downloading paths: 40.429% done
+Downloading paths: 41.522% done
+Downloading paths: 42.615% done
+Downloading paths: 43.707% done
+Downloading paths: 44.800% done
+Downloading paths: 45.89% done
+Downloading paths: 46.985% done
+Downloading paths: 48.078% done
+Downloading paths: 49.171% done
+Downloading paths: 50.263% done
+Downloading paths: 51.356% done
+Downloading paths: 52.4% done
+Downloading paths: 53.541% done
+Downloading paths: 54.634% done
+Downloading paths: 55.727% done
+Downloading paths: 56.820% done
+Downloading paths: 57.912% done
+Downloading paths: 59.00% done
+Downloading paths: 60.098% done
+Downloading paths: 61.190% done
+Downloading paths: 62.283% done
+Downloading paths: 63.376% done
+Downloading paths: 64.468% done
+Downloading paths: 65.5% done
+Downloading paths: 66.654% done
+Downloading paths: 67.746% done
+Downloading paths: 68.839% done
+Downloading paths: 69.932% done
+Downloading paths: 71.025% done
+Downloading paths: 72.11% done
+Downloading paths: 73.210% done
+Downloading paths: 74.303% done
+Downloading paths: 75.395% done
+Downloading paths: 76.488% done
+Downloading paths: 77.581% done
+Downloading paths: 78.6% done
+Downloading paths: 79.766% done
+Downloading paths: 80.859% done
+Downloading paths: 81.951% done
+Downloading paths: 83.044% done
+Downloading paths: 84.137% done
+Downloading paths: 85.23% done
+Downloading paths: 86.322% done
+Downloading paths: 87.415% done
+Downloading paths: 88.508% done
+Downloading paths: 89.600% done
+Downloading paths: 90.693% done
+Downloading paths: 91.7% done
+Downloading paths: 92.878% done
+Downloading paths: 93.971% done
+Downloading paths: 95.064% done
+Downloading paths: 96.156% done
+Downloading paths: 97.249% done
+Downloading paths: 98.34% done
+Downloading paths: 99.435% done
+Downloading paths: 100.52% done
+run time to: Download paths: 42.7s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 65.9s
+run time to: Add existing detectors 77.5s
+Calculating optimal counting locations...
+detector no1 added
+detector no2 added
+detector no3 added
+detector no4 added
+detector no5 added
+detector no6 added
+detector no7 added
+detector no8 added
+detector no9 added
+detector no10 added
+run time to: Calculate optimal detecting points 114.s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Links
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 122272.7
+2.  Filtered flow: 121957.75
+3.  Paths coverage: 0.997424200169
+4.  Predetected Flow: 55911.553|45.7269308685%
+5.  ODs precovered: 38281|37.2673286604%
+6.  Detected Flow: 19967.312|16.3301472855%
+8.  ODs covered: 21490|20.9209501558%
+9.  Overall OD coverage: 59717|58.1357087227%
+
+
+Solution: 
+You should count following objects:Links: 
+Link no: 1035
+Link no: 1271
+Link no: 1034
+Link no: 1270
+Link no: 689
+Link no: 818
+Link no: 688
+Link no: 953
+Link no: 1600
+Link no: 817
+
+Overall Calc Time: 117.s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\intelligent-infrastructure\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 0
+ObjType: links only
+Undirected: False
+SelectionType: Max Flow 
+======= Calculate ========
+Downloading paths: 2.1853% done
+Downloading paths: 3.278% done
+Downloading paths: 4.3707% done
+Downloading paths: 5.4634% done
+Downloading paths: 6.55% done
+Downloading paths: 7.6488% done
+Downloading paths: 8.7415% done
+Downloading paths: 9.834% done
+Downloading paths: 10.926% done
+Downloading paths: 12.019% done
+Downloading paths: 13.1% done
+Downloading paths: 14.205% done
+Downloading paths: 15.297% done
+Downloading paths: 16.390% done
+Downloading paths: 17.483% done
+Downloading paths: 18.575% done
+Downloading paths: 19.66% done
+Downloading paths: 20.761% done
+Downloading paths: 21.853% done
+Downloading paths: 22.946% done
+Downloading paths: 24.039% done
+Downloading paths: 25.131% done
+Downloading paths: 26.2% done
+Downloading paths: 27.317% done
+Downloading paths: 28.410% done
+Downloading paths: 29.502% done
+Downloading paths: 30.595% done
+Downloading paths: 31.688% done
+Downloading paths: 32.78% done
+Downloading paths: 33.873% done
+Downloading paths: 34.966% done
+Downloading paths: 36.058% done
+Downloading paths: 37.151% done
+Downloading paths: 38.244% done
+Downloading paths: 39.3% done
+Downloading paths: 40.429% done
+Downloading paths: 41.522% done
+Downloading paths: 42.615% done
+Downloading paths: 43.707% done
+Downloading paths: 44.800% done
+Downloading paths: 45.89% done
+Downloading paths: 46.985% done
+Downloading paths: 48.078% done
+Downloading paths: 49.171% done
+Downloading paths: 50.263% done
+Downloading paths: 51.356% done
+Downloading paths: 52.4% done
+Downloading paths: 53.541% done
+Downloading paths: 54.634% done
+Downloading paths: 55.727% done
+Downloading paths: 56.820% done
+Downloading paths: 57.912% done
+Downloading paths: 59.00% done
+Downloading paths: 60.098% done
+Downloading paths: 61.190% done
+Downloading paths: 62.283% done
+Downloading paths: 63.376% done
+Downloading paths: 64.468% done
+Downloading paths: 65.5% done
+Downloading paths: 66.654% done
+Downloading paths: 67.746% done
+Downloading paths: 68.839% done
+Downloading paths: 69.932% done
+Downloading paths: 71.025% done
+Downloading paths: 72.11% done
+Downloading paths: 73.210% done
+Downloading paths: 74.303% done
+Downloading paths: 75.395% done
+Downloading paths: 76.488% done
+Downloading paths: 77.581% done
+Downloading paths: 78.6% done
+Downloading paths: 79.766% done
+Downloading paths: 80.859% done
+Downloading paths: 81.951% done
+Downloading paths: 83.044% done
+Downloading paths: 84.137% done
+Downloading paths: 85.23% done
+Downloading paths: 86.322% done
+Downloading paths: 87.415% done
+Downloading paths: 88.508% done
+Downloading paths: 89.600% done
+Downloading paths: 90.693% done
+Downloading paths: 91.7% done
+Downloading paths: 92.878% done
+Downloading paths: 93.971% done
+Downloading paths: 95.064% done
+Downloading paths: 96.156% done
+Downloading paths: 97.249% done
+Downloading paths: 98.34% done
+Downloading paths: 99.435% done
+Downloading paths: 100.52% done
+run time to: Download paths: 478.s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 500.s
+run time to: Add existing detectors 512.s
+Calculating optimal counting locations...
+run time to: Calculate optimal detecting points 512.s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Links
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 122272.7
+2.  Filtered flow: 121957.75
+3.  Paths coverage: 0.997424200169
+4.  Predetected Flow: 65572.75|53.6282833372%
+5.  ODs precovered: 46345|45.1177959502%
+6.  Detected Flow: 0|0.0%
+8.  ODs covered: 0|0.0%
+9.  Overall OD coverage: 46345|45.1177959502%
+
+
+Solution: 
+You should count following objects:Links: 
+
+Overall Calc Time: 513.s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\intelligent-infrastructure\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: nodes only
+Undirected: False
+SelectionType: Mixed
+======= Calculate ========
+Downloading paths: 2.1853% done
+Downloading paths: 3.278% done
+Downloading paths: 4.3707% done
+Downloading paths: 5.4634% done
+Downloading paths: 6.55% done
+Downloading paths: 7.6488% done
+Downloading paths: 8.7415% done
+Downloading paths: 9.834% done
+Downloading paths: 10.926% done
+Downloading paths: 12.019% done
+Downloading paths: 13.1% done
+Downloading paths: 14.205% done
+Downloading paths: 15.297% done
+Downloading paths: 16.390% done
+Downloading paths: 17.483% done
+Downloading paths: 18.575% done
+Downloading paths: 19.66% done
+Downloading paths: 20.761% done
+Downloading paths: 21.853% done
+Downloading paths: 22.946% done
+Downloading paths: 24.039% done
+Downloading paths: 25.131% done
+Downloading paths: 26.2% done
+Downloading paths: 27.317% done
+Downloading paths: 28.410% done
+Downloading paths: 29.502% done
+Downloading paths: 30.595% done
+Downloading paths: 31.688% done
+Downloading paths: 32.78% done
+Downloading paths: 33.873% done
+Downloading paths: 34.966% done
+Downloading paths: 36.058% done
+Downloading paths: 37.151% done
+Downloading paths: 38.244% done
+Downloading paths: 39.3% done
+Downloading paths: 40.429% done
+Downloading paths: 41.522% done
+Downloading paths: 42.615% done
+Downloading paths: 43.707% done
+Downloading paths: 44.800% done
+Downloading paths: 45.89% done
+Downloading paths: 46.985% done
+Downloading paths: 48.078% done
+Downloading paths: 49.171% done
+Downloading paths: 50.263% done
+Downloading paths: 51.356% done
+Downloading paths: 52.4% done
+Downloading paths: 53.541% done
+Downloading paths: 54.634% done
+Downloading paths: 55.727% done
+Downloading paths: 56.820% done
+Downloading paths: 57.912% done
+Downloading paths: 59.00% done
+Downloading paths: 60.098% done
+Downloading paths: 61.190% done
+Downloading paths: 62.283% done
+Downloading paths: 63.376% done
+Downloading paths: 64.468% done
+Downloading paths: 65.5% done
+Downloading paths: 66.654% done
+Downloading paths: 67.746% done
+Downloading paths: 68.839% done
+Downloading paths: 69.932% done
+Downloading paths: 71.025% done
+Downloading paths: 72.11% done
+Downloading paths: 73.210% done
+Downloading paths: 74.303% done
+Downloading paths: 75.395% done
+Downloading paths: 76.488% done
+Downloading paths: 77.581% done
+Downloading paths: 78.6% done
+Downloading paths: 79.766% done
+Downloading paths: 80.859% done
+Downloading paths: 81.951% done
+Downloading paths: 83.044% done
+Downloading paths: 84.137% done
+Downloading paths: 85.23% done
+Downloading paths: 86.322% done
+Downloading paths: 87.415% done
+Downloading paths: 88.508% done
+Downloading paths: 89.600% done
+Downloading paths: 90.693% done
+Downloading paths: 91.7% done
+Downloading paths: 92.878% done
+Downloading paths: 93.971% done
+Downloading paths: 95.064% done
+Downloading paths: 96.156% done
+Downloading paths: 97.249% done
+Downloading paths: 98.34% done
+Downloading paths: 99.435% done
+Downloading paths: 100.52% done
+run time to: Download paths: 1016s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 1038s
+run time to: Add existing detectors 1047s
+Calculating optimal counting locations...
+detector no1 added
+detector no2 added
+detector no3 added
+detector no4 added
+detector no5 added
+detector no6 added
+detector no7 added
+detector no8 added
+detector no9 added
+detector no10 added
+run time to: Calculate optimal detecting points 1098s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Nodes
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 122272.7
+2.  Filtered flow: 121957.75
+3.  Paths coverage: 0.997424200169
+4.  Predetected Flow: 65572.75|53.6282833372%
+5.  ODs precovered: 46345|45.1177959502%
+6.  Detected Flow: 68844.289|56.303892038%
+8.  ODs covered: 58579|57.0278426791%
+9.  Overall OD coverage: 64848|63.1308411215%
+
+
+Solution: 
+You should count following objects:Nodes: 
+Node no: 605
+Node no: 153
+Node no: 224
+Node no: 243
+Node no: 148
+Node no: 235
+Node no: 185
+Node no: 461
+Node no: 100
+Node no: 220
+
+Overall Calc Time: 1101s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\intelligent-infrastructure\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: C
+Budget: 10
+ObjType: nodes only
+Undirected: False
+SelectionType: Mixed
+======= Calculate ========
+Downloading paths: 2.1853% done
+Downloading paths: 3.278% done
+Downloading paths: 4.3707% done
+Downloading paths: 5.4634% done
+Downloading paths: 6.55% done
+Downloading paths: 7.6488% done
+Downloading paths: 8.7415% done
+Downloading paths: 9.834% done
+Downloading paths: 10.926% done
+Downloading paths: 12.019% done
+Downloading paths: 13.1% done
+Downloading paths: 14.205% done
+Downloading paths: 15.297% done
+Downloading paths: 16.390% done
+Downloading paths: 17.483% done
+Downloading paths: 18.575% done
+Downloading paths: 19.66% done
+Downloading paths: 20.761% done
+Downloading paths: 21.853% done
+Downloading paths: 22.946% done
+Downloading paths: 24.039% done
+Downloading paths: 25.131% done
+Downloading paths: 26.2% done
+Downloading paths: 27.317% done
+Downloading paths: 28.410% done
+Downloading paths: 29.502% done
+Downloading paths: 30.595% done
+Downloading paths: 31.688% done
+Downloading paths: 32.78% done
+Downloading paths: 33.873% done
+Downloading paths: 34.966% done
+Downloading paths: 36.058% done
+Downloading paths: 37.151% done
+Downloading paths: 38.244% done
+Downloading paths: 39.3% done
+Downloading paths: 40.429% done
+Downloading paths: 41.522% done
+Downloading paths: 42.615% done
+Downloading paths: 43.707% done
+Downloading paths: 44.800% done
+Downloading paths: 45.89% done
+Downloading paths: 46.985% done
+Downloading paths: 48.078% done
+Downloading paths: 49.171% done
+Downloading paths: 50.263% done
+Downloading paths: 51.356% done
+Downloading paths: 52.4% done
+Downloading paths: 53.541% done
+Downloading paths: 54.634% done
+Downloading paths: 55.727% done
+Downloading paths: 56.820% done
+Downloading paths: 57.912% done
+Downloading paths: 59.00% done
+Downloading paths: 60.098% done
+Downloading paths: 61.190% done
+Downloading paths: 62.283% done
+Downloading paths: 63.376% done
+Downloading paths: 64.468% done
+Downloading paths: 65.5% done
+Downloading paths: 66.654% done
+Downloading paths: 67.746% done
+Downloading paths: 68.839% done
+Downloading paths: 69.932% done
+Downloading paths: 71.025% done
+Downloading paths: 72.11% done
+Downloading paths: 73.210% done
+Downloading paths: 74.303% done
+Downloading paths: 75.395% done
+Downloading paths: 76.488% done
+Downloading paths: 77.581% done
+Downloading paths: 78.6% done
+Downloading paths: 79.766% done
+Downloading paths: 80.859% done
+Downloading paths: 81.951% done
+Downloading paths: 83.044% done
+Downloading paths: 84.137% done
+Downloading paths: 85.23% done
+Downloading paths: 86.322% done
+Downloading paths: 87.415% done
+Downloading paths: 88.508% done
+Downloading paths: 89.600% done
+Downloading paths: 90.693% done
+Downloading paths: 91.7% done
+Downloading paths: 92.878% done
+Downloading paths: 93.971% done
+Downloading paths: 95.064% done
+Downloading paths: 96.156% done
+Downloading paths: 97.249% done
+Downloading paths: 98.34% done
+Downloading paths: 99.435% done
+Downloading paths: 100.52% done
+run time to: Download paths: 42.8s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 64.7s
+run time to: Add existing detectors 73.9s
+Calculating optimal counting locations...
+detector no1 added
+detector no2 added
+detector no3 added
+detector no4 added
+detector no5 added
+detector no6 added
+detector no7 added
+detector no8 added
+detector no9 added
+detector no10 added
+run time to: Calculate optimal detecting points 126.s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Nodes
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 122272.7
+2.  Filtered flow: 121957.75
+3.  Paths coverage: 0.997424200169
+4.  Predetected Flow: 0|0.0%
+5.  ODs precovered: 0|0.0%
+6.  Detected Flow: 68844.289|56.303892038%
+8.  ODs covered: 58579|57.0278426791%
+9.  Overall OD coverage: 58579|57.0278426791%
+
+
+Solution: 
+You should count following objects:Nodes: 
+Node no: 605
+Node no: 153
+Node no: 224
+Node no: 243
+Node no: 148
+Node no: 235
+Node no: 185
+Node no: 461
+Node no: 100
+Node no: 220
+
+Overall Calc Time: 130.s
+
+Report available in: 
+D:\Visum_Szarata_Training\Exe\AddIns\intelligent-infrastructure\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: SOpop
+Budget: 10
+ObjType: links only
+Undirected: False
+SelectionType: Max Flow 
+======= Calculate ========
+run time to: Download paths: 3.59s
+Filtering paths... (may take a while, be patient)
+run time to: Get data from Visum 3.73s
+run time to: Add existing detectors 3.82s
+Calculating optimal counting locations...
+detector no1 added
+detector no2 added
+detector no3 added
+detector no4 added
+detector no5 added
+detector no6 added
+detector no7 added
+detector no8 added
+detector no9 added
+detector no10 added
+run time to: Calculate optimal detecting points 3.87s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Links
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 26720.9537278
+2.  Filtered flow: 25730.906
+3.  Paths coverage: 0.962948638067
+4.  Predetected Flow: 25720.764|96.2569085746%
+5.  ODs precovered: 370|61.6666666667%
+6.  Detected Flow: 10.142|0.0379552320749%
+8.  ODs covered: 20|3.33333333333%
+9.  Overall OD coverage: 378|63.0%
+
+
+Solution: 
+You should count following objects:Links: 
+Link no: 30
+Link no: 218
+Link no: 272
+Link no: 119
+Link no: 217
+Link no: 8
+Link no: 99
+Link no: 432
+Link no: 9
+Link no: 160
+
+Overall Calc Time: 5.77s
+
+Report available in: 
+D:\VISUM120\Exe\AddIns\intelligent-infrastructure\Optimal Count Location\report.txt
+======= OCL by I2 ========
+
+======= Parameters: =======
+depth: 5
+DSeg: Car
+Budget: 15
+ObjType: nodes only
+Undirected: False
+SelectionType: Mixed
+======= Calculate ========
+Creating List of Visum Objects: Links
+Downloading paths: 10.77% done
+Downloading paths: 16.163% done
+Downloading paths: 21.55% done
+Downloading paths: 26.939% done
+Downloading paths: 32.32% done
+Downloading paths: 37.715% done
+Downloading paths: 43.102% done
+Downloading paths: 48.490% done
+Downloading paths: 53.878% done
+Downloading paths: 59.266% done
+Downloading paths: 64.654% done
+Downloading paths: 70.042% done
+Downloading paths: 75.430% done
+Downloading paths: 80.818% done
+Downloading paths: 86.205% done
+Downloading paths: 91.593% done
+Downloading paths: 96.981% done
+Downloading paths: 102.36% done
+run time to: Download paths: 575.s
+Filtering paths
+0 /92801paths filtered.575.s
+0 /92801paths filtered.575.s
+5000 /92801paths filtered.577.s
+10000 /92801paths filtered.578.s
+15000 /92801paths filtered.579.s
+20000 /92801paths filtered.581.s
+25000 /92801paths filtered.582.s
+30000 /92801paths filtered.583.s
+35000 /92801paths filtered.585.s
+40000 /92801paths filtered.586.s
+45000 /92801paths filtered.588.s
+50000 /92801paths filtered.589.s
+55000 /92801paths filtered.591.s
+60000 /92801paths filtered.593.s
+65000 /92801paths filtered.594.s
+70000 /92801paths filtered.596.s
+75000 /92801paths filtered.598.s
+80000 /92801paths filtered.600.s
+85000 /92801paths filtered.601.s
+90000 /92801paths filtered.603.s
+run time to: Get data from Visum 605.s
+run time to: Add existing detectors 609.s
+Calculating optimal counting locations...
+Searching for optimal object
+Adding detector614.s
+detector no1 added
+Searching for optimal object
+Adding detector618.s
+detector no2 added
+Searching for optimal object
+Adding detector622.s
+detector no3 added
+Searching for optimal object
+Adding detector625.s
+detector no4 added
+Searching for optimal object
+Adding detector627.s
+detector no5 added
+Searching for optimal object
+Adding detector629.s
+detector no6 added
+Searching for optimal object
+Adding detector631.s
+detector no7 added
+Searching for optimal object
+Adding detector632.s
+detector no8 added
+Searching for optimal object
+Adding detector634.s
+detector no9 added
+Searching for optimal object
+Adding detector635.s
+detector no10 added
+Searching for optimal object
+Adding detector636.s
+detector no11 added
+Searching for optimal object
+Adding detector637.s
+detector no12 added
+Searching for optimal object
+Adding detector638.s
+detector no13 added
+Searching for optimal object
+Adding detector639.s
+detector no14 added
+Searching for optimal object
+Adding detector640.s
+detector no15 added
+run time to: Calculate optimal detecting points 640.s
+======  SUMMARY  ====== 
+======  Parameters:  ====== 
+Algorithm depth: 3
+Goal function: max ODs coverage 
+Enable to put detectors on: Nodes
+Budget for 30 detectors 
+======  Results:  ====== 
+1.  ODMtx Sum: 61308.7378913
+2.  Filtered flow: 61104.228
+3.  Paths coverage: 0.996664261925
+4.  Predetected Flow: 0|0.0%
+5.  ODs precovered: 0|0.0%
+6.  Detected Flow: 42068.219|68.8466582051%
+8.  ODs covered: 73062|71.1273364486%
+9.  Overall OD coverage: 73062|71.1273364486%
+
+
+Solution: 
+You should count following objects:Nodes: 
+Node no: 148
+Node no: 224
+Node no: 2
+Node no: 243
+Node no: 605
+Node no: 524
+Node no: 257
+Node no: 212
+Node no: 91
+Node no: 44
+Node no: 100
+Node no: 238
+Node no: 735
+Node no: 461
+Node no: 138
+
+Overall Calc Time: 643.s
+
+Report available in: 
+C:\Program Files (x86)\PTV Vision\PTV Visum 13\Exe\AddIns\intelligent-infrastructure\Optimal Count Locator\report.txt

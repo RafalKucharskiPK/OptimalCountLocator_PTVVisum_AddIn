@@ -1,6 +1,9 @@
 # DISCLAIMER
 
-_**This is an free copy of the depreciated product, offered several years ago at PTV Visum MarketPlace. The product is not mainained anymore. You can freely use it, or copy the code snippets to make your solutions. Though, there is no guarantee anymore.**_
+_**This is a free copy of the depreciated product, offered several years ago at PTV Visum MarketPlace. 
+This is not a standalone product, but Add-in for the PTV Visum software. 
+The product is not mainained anymore. 
+You can freely use it, or copy the code snippets to make your solutions. Though, there is no guarantee anymore.**_
 
 ***
 
